@@ -1,2 +1,2 @@
 # tribute-to-netaji
-A tribute page to Shubash Chandra bosh
+<p>My first responsive website as a learner<p>
