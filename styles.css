@@ -1,0 +1,68 @@
+#Subhash-Chandra-Bosh
+{
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(75, 72, 72);
+    font-family: 'Patua One', cursive;
+    padding: 50px 0 0 0;
+}
+
+#img-div{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#main{
+    background-color: rgb(230, 230, 230);
+}
+
+#Netaji{
+    font-family: 'Patua One', cursive;
+    color: rgb(75, 72, 72);
+    text-align: center;
+    font-size: 2rem;
+}
+
+#image-caption{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(75, 72, 72);
+}
+
+#tribute-info{
+    margin: 100px;
+}
+
+.image1{
+    height: 250px;
+    width: 250px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.image2{
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+strong{
+    font-size: 30px;
+    color: rgb(75, 72, 72);
+    font-family: 'Patua One', cursive;
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 70px;
+    color: rgb(75, 72, 72);
+    font-family: 'Patua One', cursive;
+}
